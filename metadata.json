@@ -1,0 +1,7 @@
+{
+  "name": "PitchPerfect AI",
+  "description": "A high-stakes investor pitch simulator for founders. Practice your pitch against realistic, challenging investor personas using real-time voice interaction.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
